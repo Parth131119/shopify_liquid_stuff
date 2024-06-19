@@ -1,0 +1,347 @@
+.cust-row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.cust-col-xs-1, .cust-col-xs-2, .cust-col-xs-3, .cust-col-xs-4, .cust-col-xs-5, .cust-col-xs-6, .cust-col-xs-7, .cust-col-xs-8, .cust-col-xs-9, .cust-col-xs-10, .cust-col-xs-11, .cust-col-xs-12 {
+  float: left;
+}
+.cust-col-xs-12 {
+  width: 100%;
+}
+.cust-col-xs-11 {
+  width: 91.66666667%;
+}
+.cust-col-xs-10 {
+  width: 83.33333333%;
+}
+.cust-col-xs-9 {
+  width: 75%;
+}
+.cust-col-xs-8 {
+  width: 66.66666667%;
+}
+.cust-col-xs-7 {
+  width: 58.33333333%;
+}
+.cust-col-xs-6 {
+  width: 50%;
+}
+.cust-col-xs-5 {
+  width: 41.66666667%;
+}
+.cust-col-xs-4 {
+  width: 33.33333333%;
+}
+.cust-col-xs-3 {
+  width: 25%;
+}
+.cust-col-xs-2 {
+  width: 16.66666667%;
+}
+.cust-col-xs-1 {
+  width: 8.33333333%;
+}
+
+
+@media (min-width: 768px) {
+  .cust-col-sm-1, .cust-col-sm-2, .cust-col-sm-3, .cust-col-sm-4, .cust-col-sm-5, .cust-col-sm-6, .cust-col-sm-7, .cust-col-sm-8, .cust-col-sm-9, .cust-col-sm-10, .cust-col-sm-11, .cust-col-sm-12 {
+    float: left;
+  }
+  .cust-col-sm-12 {
+    width: 100%;
+  }
+  .cust-col-sm-11 {
+    width: 91.66666667%;
+  }
+  .cust-col-sm-10 {
+    width: 83.33333333%;
+  }
+  .cust-col-sm-9 {
+    width: 75%;
+  }
+  .cust-col-sm-8 {
+    width: 66.66666667%;
+  }
+  .cust-col-sm-7 {
+    width: 58.33333333%;
+  }
+  .cust-col-sm-6 {
+    width: 50%;
+  }
+  .cust-col-sm-5 {
+    width: 41.66666667%;
+  }
+  .cust-col-sm-4 {
+    width: 33.33333333%;
+  }
+  .cust-col-sm-3 {
+    width: 25%;
+  }
+  .cust-col-sm-2 {
+    width: 16.66666667%;
+  }
+  .cust-col-sm-1 {
+    width: 8.33333333%;
+  }
+  
+}
+
+
+
+@media (min-width: 992px) {
+  .cust-col-md-1, .cust-col-md-2, .cust-col-md-3, .cust-col-md-4, .cust-col-md-5, .cust-col-md-6, .cust-col-md-7, .cust-col-md-8, .cust-col-md-9, .cust-col-md-10, .cust-col-md-11, .cust-col-md-12 {
+    float: left;
+  }
+  .cust-col-md-12 {
+    width: 100%;
+  }
+  .cust-col-md-11 {
+    width: 91.66666667%;
+  }
+  .cust-col-md-10 {
+    width: 83.33333333%;
+  }
+  .cust-col-md-9 {
+    width: 75%;
+  }
+  .cust-col-md-8 {
+    width: 66.66666667%;
+  }
+  .cust-col-md-7 {
+    width: 58.33333333%;
+  }
+  .cust-col-md-6 {
+    width: 50%;
+  }
+  .cust-col-md-5 {
+    width: 41.66666667%;
+  }
+  .cust-col-md-4 {
+    width: 33.33333333%;
+  }
+  .cust-col-md-3 {
+    width: 25%;
+  }
+  .cust-col-md-2 {
+    width: 16.66666667%;
+  }
+  .cust-col-md-1 {
+    width: 8.33333333%;
+  }
+ 
+}
+
+
+
+@media (min-width: 1200px) {
+  .cust-col-lg-1, .cust-col-lg-2, .cust-col-lg-3, .cust-col-lg-4, .cust-col-lg-5, .cust-col-lg-6, .cust-col-lg-7, .cust-col-lg-8, .cust-col-lg-9, .cust-col-lg-10, .cust-col-lg-11, .cust-col-lg-12 {
+    float: left;
+  }
+  .cust-col-lg-12 {
+    width: 100%;
+  }
+  .cust-col-lg-11 {
+    width: 91.66666667%;
+  }
+  .cust-col-lg-10 {
+    width: 83.33333333%;
+  }
+  .cust-col-lg-9 {
+    width: 75%;
+  }
+  .cust-col-lg-8 {
+    width: 66.66666667%;
+  }
+  .cust-col-lg-7 {
+    width: 58.33333333%;
+  }
+  .cust-col-lg-6 {
+    width: 50%;
+  }
+  .cust-col-lg-5 {
+    width: 41.66666667%;
+  }
+  .cust-col-lg-4 {
+    width: 33.33333333%;
+  }
+  .cust-col-lg-3 {
+    width: 25%;
+  }
+  .cust-col-lg-2 {
+    width: 16.66666667%;
+  }
+  .cust-col-lg-1 {
+    width: 8.33333333%;
+  }
+}
+
+
+
+
+.cust_announcement_bar {
+    background-color: #282D2E;
+}
+
+.cust_announcement_bar .announcement-bar__message{
+      color: #DCD3CC;
+      text-transform: uppercase;
+}
+.cust_head_drawer{
+  position: absolute;
+  right: 3em;
+  top: 2em;
+}
+.header__inline-menu .header__menu-item{
+   font-size:14px;
+  font-weight:600;
+  line-height:14px;  
+  font-family:'Assistant'; 
+  color:#F8F7F5;
+} 
+
+.header__inline-menu .header__submenu .header__menu-item{
+  font-size:12px;
+  font-weight:600;
+  line-height:14px;  
+  font-family:'Assistant'; 
+  color:#F8F7F5;
+  padding: .8rem 2rem;
+}
+
+.header__inline-menu .header__submenu{
+  background-color:#282d2e;
+}
+
+.header__inline-menu ul.header__submenu li {
+    padding: 0.2em 0;
+}
+.footer {
+    background: #282D2E;
+    width: 100%;
+    float: left;
+    overflow: hidden;
+}
+
+
+.custom_banner_box {
+    max-width: var(--page-width) !important;
+    margin: 0 auto !important;
+    padding: 0 1.5rem !important;
+    width: 100% !important;
+    background: transparent !important;
+}
+.cust_hero_part {
+    position: relative;
+    width: 100%;
+    float: left;
+    top: -9rem;
+}
+.cust_hero_one, .cust_hero_two, .cust_hero_three {
+    float: left;
+    margin-right: 0.8em;
+}
+.cust_hero_heading {
+    font-size: 64px;
+    color: #f8f7f5;
+    line-height: 67.2px;
+    font-weight: 400;
+    margin: 0px;
+}
+
+
+
+.cust-section-content-part {
+    padding: 3em 0;
+}  
+.wel-section-one {
+    width: 18%;
+    float: left;
+}
+.wel-section-two {
+    width: 33%;
+    float: left;
+}  
+.wel-section-three {
+    width: 41%;
+    float: left;
+}  
+img.wel-section-img {
+    width: 100%;
+}
+.cust_col_gap {
+    margin-right: 4%;
+}
+.section-heading-cust-small-ttl {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 19.6px;
+    padding: 0px;
+    margin-top: 4.6em;
+}
+.section-heading-cust-big-ttl{
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 48px;    
+    padding: 0px;
+    margin-top: 1.5em;
+}  
+.section-content-cust-button button.view-btn {
+    margin-top: 1.5em;
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #484F59;
+    background-color: transparent;
+    padding: 0px;
+}
+.section-content-cust-button button.view-btn a{
+    color:#484F59; 
+}
+
+
+.image-and-content-section .section-heading-cust-big-ttl{
+  margin-top: 0;
+}
+.image-and-content-section .section-heading-cust-small-ttl{
+  margin-top: 0;
+}
+img.image-and-content-img {
+    width: 100%;
+}
+.image-and-content-two {
+    margin: 12em 0;
+}
+
+
+
+.announcement-for-template-bg {
+    background-color: #282d2e;
+}
+.cust-section-announcement-part {
+    padding: 0.5em 0;
+}
+.announcement-template {
+    text-align: center;
+}
+.announcement-template p {
+    color: #F8F7F5;
+    font-weight:600;
+    font-size:14px;
+    line-height:19.6px; 
+    text-transform:uppercase;
+}
+.announcement-template a {
+    text-decoration:none; 
+}
+
+@media only screen and (max-width: 768px) {
+  .cust_hero_part {
+    top: 0;
+   }
+}
+
+
+

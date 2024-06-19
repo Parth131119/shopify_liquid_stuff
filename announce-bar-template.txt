@@ -1,0 +1,45 @@
+<section class="announcement-for-template-section shopify-section section">
+    <div class="announcement-for-template-bg">
+        <div class="page-width">
+              <div class="cust-section-announcement-part grid">
+                 <div class="cust-col-md-12 ">
+                      <div class="announcement-template">
+                         {% if section.settings.announcement-template__message != blank %}
+                         <a href="{{ section.settings.announcement-template__message-link }}"><p class="announcement-template__message h5">
+                            <span>{{ section.settings.announcement-template__message }}</span>
+                         </p></a>
+                         {% endif %}
+                      </div>
+                 </div>
+              </div>
+        </div>
+    </div>
+</section>
+
+{% schema %}
+  {
+   "name": "Announcement For Template", 
+    "settings": [
+      {
+      "id": "announcement-template__message",
+      "type": "text",
+      "label": "Announcement Message"
+      },
+      {
+      "id": "announcement-template__message-link",
+      "type": "url",
+      "label": "Link"
+      }
+    ],
+    "presets": [
+        {
+        "name": "Announcement For Template"        
+        }
+    ] 
+}
+  
+{% endschema %}
+{% stylesheet %}
+{% endstylesheet %}
+{% javascript %}
+{% endjavascript %}    
